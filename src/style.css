@@ -1,0 +1,11 @@
+.palt {
+  font-feature-settings: 'palt';
+}
+
+span {
+  font-weight: bold;
+}
+
+img {
+  outline: 1px solid gray;
+}
